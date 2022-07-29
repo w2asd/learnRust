@@ -1,0 +1,10 @@
+D:\Github\learnRust\myblog\target\debug\deps\version_check-039849167687a3a8.rmeta: C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\lib.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\version.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\channel.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\date.rs
+
+D:\Github\learnRust\myblog\target\debug\deps\libversion_check-039849167687a3a8.rlib: C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\lib.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\version.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\channel.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\date.rs
+
+D:\Github\learnRust\myblog\target\debug\deps\version_check-039849167687a3a8.d: C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\lib.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\version.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\channel.rs C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\date.rs
+
+C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\lib.rs:
+C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\version.rs:
+C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\channel.rs:
+C:\Users\hxx\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\version_check-0.9.4\src\date.rs:
